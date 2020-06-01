@@ -1,0 +1,8 @@
+[submodule "source/nxdk"]
+	path = source/nxdk
+	url = https://github.com/Voxel9/nxdk
+	branch = dxt
+[submodule "source/XbSymbolDatabase"]
+	path = source/XbSymbolDatabase
+	url = https://github.com/Voxel9/XbSymbolDatabase
+	branch = CheatX
